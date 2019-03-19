@@ -1,0 +1,7 @@
+﻿1.Tìm hiểu các công cụ làm việc nhóm:
+    + SVN : Công cụ quản lý phiên bản
+    + Chia sẻ code nguồn vs github
+    + Phân chia công việc nhóm
+2. Nộp tài liệu thiết kê CSDL và chức năng cho CSDL
+    - Mỗi nhóm nộp tài liệu thiết kế CSDL(mô tả các bảng dữ liệu và mối quan hệ giữa các bảng)
+và bảng liên kết các chức năng mà nhóm sẽ thực hiện khi hoàn thiện đề tài
